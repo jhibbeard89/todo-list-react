@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Buy groceries",
+    "done": true
+  },
+  {
+    "title": "Finish report",
+    "done": false
+  },
+  {
+    "title": "Call the bank",
+    "done": true
+  },
+  {
+    "title": "Clean the kitchen",
+    "done": false
+  },
+  {
+    "title": "Study for exam",
+    "done": false
+  },
+  {
+    "title": "Book dentist appointment",
+    "done": true
+  },
+  {
+    "title": "Repair the bike",
+    "done": false
+  },
+  {
+    "title": "Walk the dog",
+    "done": true
+  },
+  {
+    "title": "Pay electricity bill",
+    "done": false
+  },
+  {
+    "title": "Plan birthday party",
+    "done": true
+  }
+]
